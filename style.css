@@ -526,7 +526,7 @@ main{
     display: inline-block;
     height: 2.4rem;
     width: 2.4rem;
-    background-image: url('/assets/icon/arrow-right.svg');
+    background-image: url('./assets/icon/arrow-right.svg');
 }
 
 
