@@ -1,0 +1,10 @@
+.principal-product-card-detail{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70rem;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+
